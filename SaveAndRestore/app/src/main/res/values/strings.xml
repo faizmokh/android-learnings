@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaveAndRestore</string>
+    <string name="header_text">Enter your name and email for a discount code at your favorite BurgerLab!</string>
+    <string name="first_name_label">First name:</string>
+    <string name="email_label">Email:</string>
+    <string name="last_name_label">Last name:</string>
+    <string name="discount_code_button">GET DISCOUNT</string>
+    <string name="discount_code_confirmation">Your discount code is below %s. Enjoy!</string>
+    <string name="add_text_validation">Please fill in all form fields</string>
+</resources>
