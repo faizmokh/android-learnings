@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="page_title">Please enter your username and password below to login:</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="confirm_button">Login</string>
+    <string name="empty_input">Username and password cannot be empty</string>
+    <string name="invalid_input">Username or password is invalid</string>
+</resources>
