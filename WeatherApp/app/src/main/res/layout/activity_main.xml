@@ -21,6 +21,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/current_image"
                 android:layout_width="match_parent"
                 android:layout_height="194dp"
                 android:backgroundTint="@color/design_default_color_surface"
